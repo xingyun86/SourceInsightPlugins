@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="sihook/msimg32/msimg32.cbp" />
+		<Project filename="siutf8/siutf8.cbp" />
+		<Project filename="sihook/sihook.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
